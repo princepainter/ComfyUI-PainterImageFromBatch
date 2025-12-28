@@ -1,7 +1,7 @@
 ## 中文
 
 ### 简介
-PainterImageFromBatch 是一个增强型 ComfyUI 自定义节点，用于从图片批次中提取连续帧。支持双向提取（从开头或末尾）、负索引和自动边界保护。
+PainterImageFromBatch 是一个增强型 ComfyUI 自定义节点，用于从图片批次中提取单帧或连续帧。支持双向提取（从开头或末尾）、负索引和自动边界保护。
 <img width="981" height="214" alt="image" src="https://github.com/user-attachments/assets/0baa7902-4a6c-4bcc-a606-811868573449" />
 
 ### 特性
@@ -46,7 +46,7 @@ MIT 许可证
 ## English
 
 ### Description
-PainterImageFromBatch is an enhanced ComfyUI custom node for extracting contiguous frames from image batches. It supports bidirectional extraction (from start or end), negative indexing, and automatic boundary protection.
+PainterImageFromBatch is an enhanced ComfyUI custom node for extracting one frame or contiguous frames from image batches. It supports bidirectional extraction (from start or end), negative indexing, and automatic boundary protection.
 <img width="981" height="214" alt="image" src="https://github.com/user-attachments/assets/aa9bbe59-da76-43b5-909b-1debb67b6221" />
 
 ### Features
